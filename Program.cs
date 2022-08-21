@@ -1,2 +1,8 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿
+class Program //называем по названию файла
+{
+    static void Main(string[]args)
+        {
+        Console.WriteLine("Hello World!")
+    }
+}
